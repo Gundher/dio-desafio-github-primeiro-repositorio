@@ -1,3 +1,7 @@
 Links uteis
 
 Download do git https://gitforwindows.org/
+
+clonei com a url o repositório criado no git
+
+com os comandos git status verifiquei se tudo correu bem
