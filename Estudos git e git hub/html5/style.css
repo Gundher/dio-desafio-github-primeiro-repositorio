@@ -1,0 +1,43 @@
+body{
+    background: #ccc;
+
+}
+
+
+#title, .subtitle,.post_title{
+    color: blue;
+    font-family: Verdana;
+
+} 
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.post{
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #000;
+    margin-bottom: 15px;
+
+}
+.imagem01{
+ 
+    height: 100px;
+
+}
+.imagem02{
+
+    
+    width: auto;
+    padding:0px;
+    margin-bottom: 15px;
+
+}
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
