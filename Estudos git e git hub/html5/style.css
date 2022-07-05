@@ -1,5 +1,7 @@
 body{
     background: #ccc;
+    max-width: 900px;
+    margin: auto;
 
 }
 
@@ -46,9 +48,10 @@ a{
 .imagem02{
 
     
-    width: auto;
+    width: 100%;
     padding:0px;
     margin-bottom: 15px;
+
 
 }
 .post_content{
