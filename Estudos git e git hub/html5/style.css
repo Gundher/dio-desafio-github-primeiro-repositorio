@@ -6,9 +6,19 @@ body{
 
 #title, .subtitle,.post_title{
     color: blue;
-    font-family: Verdana;
+    font-family: Verdana, Arial;
 
 } 
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+a{
+    text-decoration: underline;
+    color: #505050;
+
+}
 .post_title{
     font-size: 16px;
     font-style: italic;
@@ -21,11 +31,16 @@ body{
     padding: 15px;
     border: 3px solid #000;
     margin-bottom: 15px;
+    text-align: justify;
 
 }
 .imagem01{
  
     height: 100px;
+    border-radius: 100%;
+    border-style: outset;
+    border-color: #000;
+
 
 }
 .imagem02{
@@ -39,5 +54,16 @@ body{
 .post_content{
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
+}
+.contacts_list{
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+.contacts_list li a {
+    color: blue;
+    text-decoration: none;
+
 }
 
